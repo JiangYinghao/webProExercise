@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body>
-	<table class="table">
+	<table class="table" border="0">
 		<thead>
 			<tr>
 				<th>编号</th>
